@@ -13,10 +13,11 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Github : [https://github.com/Liciacodes/pricing-component-with-toggle]
 
-## My process
+- Live Site URL: [https://liciacodes.github.io/pricing-component-with-toggle/]
+
+
 
 ### Built with
 
@@ -26,6 +27,9 @@ Users should be able to:
 
 
 ### What I learned
+- how to use the event listener in js 
+- how to use DOM manipulations
+- how to use the arrow function
 
 
 ### Continued development
